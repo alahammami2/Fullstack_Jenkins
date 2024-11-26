@@ -42,7 +42,6 @@ pipeline {
 
 
 
-Job for jenkins.service failed because the control process exited with error code.
-See "systemctl status jenkins.service" and "journalctl -xe" for details.
+
 
 
